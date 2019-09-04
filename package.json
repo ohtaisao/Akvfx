@@ -1,0 +1,13 @@
+{
+    "author": "Isao Ohta",
+    "description": "Akvfx fork",
+    "displayName": "Akvfx",
+    "name": "jp.ohtaisao.akvfx",
+    "unity": "2019.1",
+    "unityRelease": "7f1",
+    "version": "1.0.0",
+    "dependencies": {
+        "com.unity.visualeffectgraph":"7.0.1",
+        "com.unity.render-pipelines.core": "7.0.1"
+    }
+}
